@@ -1,0 +1,96 @@
+.image-container1 {
+    display: flex;
+    justify-content: space-between; /* Images evenly spaced horizontally */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: white;
+    padding: 60px;
+    padding-top: 19px;
+    padding-bottom: 20px;
+    font-family: "Audiowide", cursive;
+  }
+  .aboutus
+  {
+    text-align: left;
+    margin-left: 0px;
+    margin-top: -39px;
+    font-family: "Audiowide", cursive;
+  }
+  .image-wrapper1 {
+    text-align: left;
+    font-family: "Audiowide", cursive;
+
+  }
+  .followus {
+    text-align: left;
+    margin-top: -110px;
+    font-family: "Audiowide", cursive;
+
+  }
+
+  .caption1 {
+    margin-top: 10px; /* Adjust spacing between image and caption */
+    font-family: "Audiowide", cursive;
+
+  }
+  .caption11 img {
+    margin-top: 10px; /* Adjust spacing between image and caption */
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    font-family: "Audiowide", cursive;
+
+  }
+  .caption12 {
+    margin-top: 10px; /* Adjust spacing between image and caption */
+    width: 250px;
+    display: flex;
+    font-family: "Audiowide", cursive;
+
+  }
+  .caption13 {
+    margin-top: 10px; /* Adjust spacing between image and caption */
+    width: 100px;
+    display: flex;
+    margin-left: 29px;
+    font-family: "Audiowide", cursive;
+
+  }
+
+.image-wrapper12
+{
+    margin-top: 20px;
+    font-family: "Audiowide", cursive;
+
+}
+.image-wrapper11 img
+{
+    margin-top: 10px; /* Adjust spacing between image and caption */
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;   
+    font-family: "Audiowide", cursive;
+
+}
+.image-wrapper12 img
+{
+    margin-top: 10px; /* Adjust spacing between image and caption */
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    margin-left: -30px;
+    font-family: "Audiowide", cursive;
+
+}
+.caption123
+{
+    align-items: flex-start;
+    text-align: left;
+    left: -12pt;
+    font-family: "Audiowide", cursive;
+}
+.caption122
+{
+  font-family: "Audiowide", cursive; 
+}
